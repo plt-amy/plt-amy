@@ -2,9 +2,10 @@
 
 I'm Amélia (acceptable nicknames: Amy, Lia, Ame; acceptable pronouns:
 they/them), a Brazilian mathematician working independently on homotopy
-type theory and formalised category theory. I also work as a software
-engineer at @obsidiansystems, where I work on making the web better with
-Haskell.
+type theory and formalised category theory. I'm also a software engineer
+[@obsidiansystems], where I work on making the web better with Haskell.
+
+[@obsidiansystems]: https://obsidian.systems
 
 - 🔭 I work on [the 1Lab] ([source](https://github.com/plt-amy/1lab)), a
 formalised, cross-linked, explorable reference resource for cubical

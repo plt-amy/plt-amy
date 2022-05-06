@@ -26,7 +26,7 @@ polymorphism.
 
 - 💬 Ask me about synthetic homotopy-coherent mathematics, synthetic
 homotopy theory, category theory, Haskell programming, and formalisation
-with Agda
+with Agda.
 
 - 📫 How to reach me: Start by sending me a Twitter direct message [at
 plt_amy], whence we can discuss an appropriate method of communication

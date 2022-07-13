@@ -32,7 +32,7 @@ with Agda.
 plt_amy], whence we can discuss an appropriate method of communication
 :)
 
-[at plt_amy]: twitter.com/plt_amy
+[at plt_amy]: https://twitter.com/plt_amy
 
 <!--
 **plt-amy/plt-amy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

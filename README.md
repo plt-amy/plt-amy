@@ -30,7 +30,7 @@ with Agda.
 
 - 📫 How to reach me: Start by sending me a Twitter direct message [at
 plt_amy], whence we can discuss an appropriate method of communication
-:)
+:) If you're off Twitter, my email address is `me [at] amelia.how`.
 
 [at plt_amy]: https://twitter.com/plt_amy
 

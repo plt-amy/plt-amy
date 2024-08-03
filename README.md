@@ -24,15 +24,11 @@ polymorphism.
 
 [Amulet programming language]: https://amulet.works
 
-- 💬 Ask me about synthetic homotopy-coherent mathematics, synthetic
-homotopy theory, category theory, Haskell programming, and formalisation
+- 💬 Ask me about synthetic homotopy theory, category theory, Haskell
+programming, implementation of proof assistants, and formalisation
 with Agda.
 
-- 📫 How to reach me: Start by sending me a Twitter direct message [at
-plt_amy], whence we can discuss an appropriate method of communication
-:) If you're off Twitter, my email address is `me [at] amelia.how`.
-
-[at plt_amy]: https://twitter.com/plt_amy
+- 📫 How to reach me: by email, at `me [at] amelia.how`.
 
 <!--
 **plt-amy/plt-amy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

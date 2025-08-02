@@ -6,10 +6,10 @@ type theory and formalised category theory.
 
 - 🔭 I work on [the 1Lab] ([source](https://github.com/plt-amy/1lab)), a
 formalised, cross-linked, explorable reference resource for cubical
-methods in homotopy type theory, featuring almost twenty thousand lines
-each of prose and of code. In addition to the mathematics, the project
-serves as an experiment for bringing Agda publishing on the web to
-21st-century standards.
+methods in homotopy type theory, featuring almost one hundred thousand
+lines each of prose and of code. In addition to the mathematics, the
+project serves as an experiment for bringing Agda publishing on the web
+to 21st-century standards.
 
 [the 1Lab]: https://1lab.dev
 
